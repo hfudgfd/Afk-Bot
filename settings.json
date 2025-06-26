@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "PLUMSMP.aternos.me",
+    "port": 12862,
     "version": "1.19.3"
   },
 
@@ -48,9 +48,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
+        "/setidletimeout 3000 ",
+        " /setidletimeout 3000",
+        "/setidletimeout 300",
         "Visit my GitHub page! (urFate/Afk-Bot)"
       ]
     },
